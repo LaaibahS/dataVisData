@@ -1,0 +1,464 @@
+iso3c,region_id,country_name,waste_treatment_methods,percentage
+ABW,LCN,Aruba,recycling,11
+ABW,LCN,Aruba,unaccounted for,89
+AND,ECS,Andorra,incineration,52
+AND,ECS,Andorra,unaccounted for,48
+ARE,MEA,United Arab Emirates,compost,9
+ARE,MEA,United Arab Emirates,landfill,9
+ARE,MEA,United Arab Emirates,open dump,62
+ARE,MEA,United Arab Emirates,recycling,20
+ARG,LCN,Argentina,landfill,72
+ARG,LCN,Argentina,open dump,23
+ARG,LCN,Argentina,recycling,6
+ARM,ECS,Armenia,open dump,100
+ATG,LCN,Antigua and Barbuda,landfill,99
+ATG,LCN,Antigua and Barbuda,unaccounted for,1
+AUT,ECS,Austria,compost,31
+AUT,ECS,Austria,incineration,38
+AUT,ECS,Austria,landfill,3
+AUT,ECS,Austria,unaccounted for,1
+AUT,ECS,Austria,recycling,26
+AZE,ECS,Azerbaijan,open dump,100
+BEL,ECS,Belgium,compost,19
+BEL,ECS,Belgium,incineration,43
+BEL,ECS,Belgium,landfill,1
+BEL,ECS,Belgium,recycling,34
+BEL,ECS,Belgium,unaccounted for,2
+BEN,SSF,Benin,recycling,25
+BEN,SSF,Benin,unaccounted for,75
+BFA,SSF,Burkina Faso,landfill,17
+BFA,SSF,Burkina Faso,open dump,59
+BFA,SSF,Burkina Faso,other,12
+BFA,SSF,Burkina Faso,unaccounted for,12
+BGD,SAS,Bangladesh,compost,5
+BGD,SAS,Bangladesh,unaccounted for,95
+BGR,ECS,Bulgaria,compost,10
+BGR,ECS,Bulgaria,incineration,3
+BGR,ECS,Bulgaria,landfill,66
+BGR,ECS,Bulgaria,recycling,19
+BGR,ECS,Bulgaria,unaccounted for,2
+BHR,MEA,Bahrain,landfill,92
+BHR,MEA,Bahrain,recycling,8
+BIH,ECS,Bosnia and Herzegovina,landfill,33
+BIH,ECS,Bosnia and Herzegovina,open dump,42
+BIH,ECS,Bosnia and Herzegovina,unaccounted for,26
+BLR,ECS,Belarus,landfill,77
+BLR,ECS,Belarus,open dump,7
+BLR,ECS,Belarus,recycling,16
+BLZ,LCN,Belize,open dump,66
+BLZ,LCN,Belize,landfill,34
+BMU,NAC,Bermuda,compost,18
+BMU,NAC,Bermuda,landfill,12
+BMU,NAC,Bermuda,incineration,68
+BMU,NAC,Bermuda,recycling,2
+BOL,LCN,Bolivia,open dump,56
+BOL,LCN,Bolivia,recycling,12
+BOL,LCN,Bolivia,landfill,32
+BRA,LCN,Brazil,landfill,75
+BRA,LCN,Brazil,open dump,16
+BRA,LCN,Brazil,recycling,1
+BRA,LCN,Brazil,unaccounted for,8
+BRB,LCN,Barbados,landfill,90
+BRB,LCN,Barbados,recycling,9
+BRB,LCN,Barbados,unaccounted for,1
+BRN,EAS,Brunei Darussalam,compost,2
+BRN,EAS,Brunei Darussalam,landfill,70
+BRN,EAS,Brunei Darussalam,unaccounted for,28
+BTN,SAS,Bhutan,compost,1
+BTN,SAS,Bhutan,landfill,98
+BTN,SAS,Bhutan,recycling,1
+BWA,SSF,Botswana,recycling,1
+BWA,SSF,Botswana,unaccounted for,99
+CAN,NAC,Canada,compost,4
+CAN,NAC,Canada,incineration,3
+CAN,NAC,Canada,landfill,72
+CAN,NAC,Canada,recycling,21
+CHE,ECS,Switzerland,compost,21
+CHE,ECS,Switzerland,incineration,47
+CHE,ECS,Switzerland,recycling,32
+CHI,ECS,Channel Islands,compost,16
+CHI,ECS,Channel Islands,landfill,39
+CHI,ECS,Channel Islands,incineration,16
+CHI,ECS,Channel Islands,recycling,28
+CHL,LCN,Chile,landfill,85
+CHL,LCN,Chile,open dump,8
+CHL,LCN,Chile,unaccounted for,5
+CMR,SSF,Cameroon,open dump,80
+CMR,SSF,Cameroon,landfill,19
+COD,SSF,"Congo, Dem. Rep.",recycling,5
+COD,SSF,"Congo, Dem. Rep.",unaccounted for,95
+COG,SSF,"Congo, Rep.",recycling,26
+COG,SSF,"Congo, Rep.",unaccounted for,74
+CUB,LCN,Cuba,landfill,31
+CUB,LCN,Cuba,open dump,42
+CUB,LCN,Cuba,recycling,9
+CUB,LCN,Cuba,unaccounted for,18
+CUW,LCN,Curacao,recycling,2
+CUW,LCN,Curacao,unaccounted for,98
+CYM,LCN,Cayman Islands,recycling,21
+CYM,LCN,Cayman Islands,unaccounted for,79
+CYP,ECS,Cyprus,compost,5
+CYP,ECS,Cyprus,landfill,74
+CYP,ECS,Cyprus,recycling,13
+CYP,ECS,Cyprus,unaccounted for,8
+CZE,ECS,Czech Republic,compost,4
+CZE,ECS,Czech Republic,incineration,18
+CZE,ECS,Czech Republic,landfill,53
+CZE,ECS,Czech Republic,recycling,26
+DEU,ECS,Germany,compost,18
+DEU,ECS,Germany,incineration,32
+DEU,ECS,Germany,recycling,48
+DEU,ECS,Germany,unaccounted for,2
+DMA,LCN,Dominica,landfill,94
+DMA,LCN,Dominica,unaccounted for,6
+DNK,ECS,Denmark,compost,19
+DNK,ECS,Denmark,incineration,53
+DNK,ECS,Denmark,landfill,1
+DNK,ECS,Denmark,recycling,27
+DOM,LCN,Dominican Republic,open dump,73
+DOM,LCN,Dominican Republic,recycling,8
+DOM,LCN,Dominican Republic,unaccounted for,19
+DZA,MEA,Algeria,compost,1
+DZA,MEA,Algeria,landfill,91
+DZA,MEA,Algeria,recycling,8
+ECU,LCN,Ecuador,open dump,22
+ECU,LCN,Ecuador,recycling,13
+ECU,LCN,Ecuador,landfill,53
+ECU,LCN,Ecuador,unaccounted for,12
+ESP,ECS,Spain,compost,16
+ESP,ECS,Spain,incineration,12
+ESP,ECS,Spain,landfill,55
+ESP,ECS,Spain,recycling,17
+EST,ECS,Estonia,compost,4
+EST,ECS,Estonia,landfill,7
+EST,ECS,Estonia,incineration,51
+EST,ECS,Estonia,recycling,25
+EST,ECS,Estonia,unaccounted for,13
+ETH,SSF,Ethiopia,open dump,43
+ETH,SSF,Ethiopia,unaccounted for,57
+FIN,ECS,Finland,compost,12
+FIN,ECS,Finland,incineration,48
+FIN,ECS,Finland,landfill,12
+FIN,ECS,Finland,recycling,28
+FJI,EAS,Fiji,landfill,52
+FJI,EAS,Fiji,recycling,5
+FJI,EAS,Fiji,unaccounted for,43
+FRA,ECS,France,compost,17
+FRA,ECS,France,incineration,35
+FRA,ECS,France,landfill,26
+FRA,ECS,France,recycling,22
+GBR,ECS,United Kingdom,compost,16
+GBR,ECS,United Kingdom,incineration,31
+GBR,ECS,United Kingdom,landfill,23
+GBR,ECS,United Kingdom,recycling,27
+GBR,ECS,United Kingdom,unaccounted for,3
+GIN,SSF,Guinea,recycling,5
+GIN,SSF,Guinea,unaccounted for,95
+GRC,ECS,Greece,landfill,80
+GRC,ECS,Greece,open dump,1
+GRC,ECS,Greece,recycling,19
+GRD,LCN,Grenada,landfill,98
+GRD,LCN,Grenada,other,2
+GRL,ECS,Greenland,incineration,40
+GRL,ECS,Greenland,landfill,60
+GTM,LCN,Guatemala,landfill,25
+GTM,LCN,Guatemala,open dump,70
+GTM,LCN,Guatemala,unaccounted for,5
+GUM,EAS,Guam,recycling,18
+GUM,EAS,Guam,landfill,64
+GUM,EAS,Guam,unaccounted for,18
+GUY,LCN,Guyana,landfill,61
+GUY,LCN,Guyana,recycling,1
+GUY,LCN,Guyana,unaccounted for,38
+HKG,EAS,"Hong Kong SAR, China",landfill,66
+HKG,EAS,"Hong Kong SAR, China",recycling,34
+HND,LCN,Honduras,landfill,71
+HND,LCN,Honduras,open dump,15
+HND,LCN,Honduras,unaccounted for,14
+HRV,ECS,Croatia,compost,2
+HRV,ECS,Croatia,landfill,80
+HRV,ECS,Croatia,recycling,16
+HRV,ECS,Croatia,unaccounted for,2
+HTI,LCN,Haiti,landfill,10
+HTI,LCN,Haiti,unaccounted for,90
+HUN,ECS,Hungary,compost,6
+HUN,ECS,Hungary,incineration,14
+HUN,ECS,Hungary,landfill,54
+HUN,ECS,Hungary,recycling,26
+IDN,EAS,Indonesia,landfill,69
+IDN,EAS,Indonesia,open dump,10
+IDN,EAS,Indonesia,other,14
+IDN,EAS,Indonesia,recycling,7
+IMN,ECS,Isle of Man,incineration,25
+IMN,ECS,Isle of Man,landfill,25
+IMN,ECS,Isle of Man,recycling,50
+IND,SAS,India,compost,18
+IND,SAS,India,open dump,77
+IND,SAS,India,recycling,5
+IRL,ECS,Ireland,compost,6
+IRL,ECS,Ireland,landfill,41
+IRL,ECS,Ireland,incineration,17
+IRL,ECS,Ireland,other,2
+IRL,ECS,Ireland,recycling,33
+IRL,ECS,Ireland,unaccounted for,1
+IRN,MEA,"Iran, Islamic Rep.",compost,12
+IRN,MEA,"Iran, Islamic Rep.",landfill,10
+IRN,MEA,"Iran, Islamic Rep.",open dump,72
+IRN,MEA,"Iran, Islamic Rep.",recycling,5
+IRQ,MEA,Iraq,open dump,100
+ISL,ECS,Iceland,compost,3
+ISL,ECS,Iceland,incineration,2
+ISL,ECS,Iceland,landfill,30
+ISL,ECS,Iceland,other,9
+ISL,ECS,Iceland,recycling,56
+ITA,ECS,Italy,compost,18
+ITA,ECS,Italy,incineration,19
+ITA,ECS,Italy,landfill,26
+ITA,ECS,Italy,recycling,26
+ITA,ECS,Italy,unaccounted for,11
+JAM,LCN,Jamaica,landfill,64
+JAM,LCN,Jamaica,other,29
+JAM,LCN,Jamaica,unaccounted for,7
+JOR,MEA,Jordan,landfill,48
+JOR,MEA,Jordan,open dump,45
+JOR,MEA,Jordan,recycling,7
+JPN,EAS,Japan,landfill,1
+JPN,EAS,Japan,incineration,80
+JPN,EAS,Japan,other,13
+JPN,EAS,Japan,recycling,5
+KAZ,ECS,Kazakhstan,open dump,60
+KAZ,ECS,Kazakhstan,recycling,3
+KAZ,ECS,Kazakhstan,unaccounted for,37
+KEN,SSF,Kenya,recycling,8
+KEN,SSF,Kenya,unaccounted for,92
+KGZ,ECS,Kyrgyz Republic,open dump,100
+KHM,EAS,Cambodia,other,18
+KHM,EAS,Cambodia,unaccounted for,83
+KNA,LCN,St. Kitts and Nevis,landfill,100
+KOR,EAS,"Korea, Rep.",compost,1
+KOR,EAS,"Korea, Rep.",incineration,25
+KOR,EAS,"Korea, Rep.",landfill,16
+KOR,EAS,"Korea, Rep.",recycling,58
+KWT,MEA,Kuwait,open dump,100
+LAO,EAS,Lao PDR,landfill,30
+LAO,EAS,Lao PDR,open dump,60
+LAO,EAS,Lao PDR,recycling,10
+LBN,MEA,Lebanon,compost,15
+LBN,MEA,Lebanon,landfill,48
+LBN,MEA,Lebanon,open dump,29
+LBN,MEA,Lebanon,recycling,8
+LCA,LCN,St. Lucia,landfill,97
+LCA,LCN,St. Lucia,other,3
+LCA,LCN,St. Lucia,unaccounted for,1
+LIE,ECS,Liechtenstein,recycling,65
+LIE,ECS,Liechtenstein,unaccounted for,35
+LTU,ECS,Lithuania,compost,10
+LTU,ECS,Lithuania,incineration,12
+LTU,ECS,Lithuania,landfill,54
+LTU,ECS,Lithuania,recycling,23
+LTU,ECS,Lithuania,unaccounted for,1
+LUX,ECS,Luxembourg,compost,20
+LUX,ECS,Luxembourg,incineration,34
+LUX,ECS,Luxembourg,landfill,18
+LUX,ECS,Luxembourg,recycling,28
+LVA,ECS,Latvia,compost,5
+LVA,ECS,Latvia,landfill,58
+LVA,ECS,Latvia,recycling,21
+LVA,ECS,Latvia,unaccounted for,16
+MAC,EAS,"Macao SAR, China",recycling,20
+MAC,EAS,"Macao SAR, China",unaccounted for,80
+MAR,MEA,Morocco,compost,1
+MAR,MEA,Morocco,open dump,52
+MAR,MEA,Morocco,other,2
+MAR,MEA,Morocco,recycling,8
+MAR,MEA,Morocco,landfill,37
+MCO,ECS,Monaco,incineration,85
+MCO,ECS,Monaco,recycling,5
+MCO,ECS,Monaco,unaccounted for,10
+MDA,ECS,Moldova,open dump,35
+MDA,ECS,Moldova,recycling,15
+MDA,ECS,Moldova,unaccounted for,50
+MDV,SAS,Maldives,compost,7
+MDV,SAS,Maldives,incineration,6
+MDV,SAS,Maldives,other,24
+MDV,SAS,Maldives,marine waterways,63
+MHL,EAS,Marshall Islands,compost,6
+MHL,EAS,Marshall Islands,recycling,31
+MHL,EAS,Marshall Islands,unaccounted for,63
+MKD,ECS,"Macedonia, FYR",landfill,100
+MLT,MEA,Malta,recycling,7
+MLT,MEA,Malta,landfill,90
+MLT,MEA,Malta,unaccounted for,3
+MMR,EAS,Myanmar,other,8
+MMR,EAS,Myanmar,unaccounted for,92
+MNE,ECS,Montenegro,open dump,92
+MNE,ECS,Montenegro,recycling,5
+MNE,ECS,Montenegro,unaccounted for,3
+MNP,EAS,Northern Mariana Islands,recycling,36
+MNP,EAS,Northern Mariana Islands,unaccounted for,64
+MOZ,SSF,Mozambique,open dump,99
+MOZ,SSF,Mozambique,recycling,1
+MRT,SSF,Mauritania,landfill,37
+MRT,SSF,Mauritania,open dump,55
+MRT,SSF,Mauritania,recycling,8
+MUS,SSF,Mauritius,compost,9
+MUS,SSF,Mauritius,landfill,91
+MYS,EAS,Malaysia,compost,1
+MYS,EAS,Malaysia,landfill,82
+MYS,EAS,Malaysia,recycling,18
+NAM,SSF,Namibia,recycling,5
+NAM,SSF,Namibia,unaccounted for,96
+NER,SSF,Niger,open dump,64
+NER,SSF,Niger,other,12
+NER,SSF,Niger,recycling,4
+NER,SSF,Niger,unaccounted for,20
+NGA,SSF,Nigeria,landfill,40
+NGA,SSF,Nigeria,other,60
+NIC,LCN,Nicaragua,landfill,20
+NIC,LCN,Nicaragua,open dump,59
+NIC,LCN,Nicaragua,other,21
+NLD,ECS,Netherlands,compost,27
+NLD,ECS,Netherlands,incineration,47
+NLD,ECS,Netherlands,landfill,1
+NLD,ECS,Netherlands,recycling,25
+NOR,ECS,Norway,compost,17
+NOR,ECS,Norway,incineration,52
+NOR,ECS,Norway,recycling,26
+NOR,ECS,Norway,landfill,3
+NOR,ECS,Norway,unaccounted for,1
+NPL,SAS,Nepal,compost,3
+NPL,SAS,Nepal,landfill,37
+NPL,SAS,Nepal,unaccounted for,60
+NZL,EAS,New Zealand,landfill,100
+OMN,MEA,Oman,landfill,73
+OMN,MEA,Oman,incineration,1
+OMN,MEA,Oman,recycling,26
+PAK,SAS,Pakistan,compost,2
+PAK,SAS,Pakistan,landfill,40
+PAK,SAS,Pakistan,open dump,50
+PAK,SAS,Pakistan,recycling,8
+PAN,LCN,Panama,landfill,58
+PAN,LCN,Panama,open dump,23
+PAN,LCN,Panama,other,19
+PER,LCN,Peru,landfill,40
+PER,LCN,Peru,open dump,56
+PER,LCN,Peru,recycling,4
+PHL,EAS,Philippines,recycling,28
+PHL,EAS,Philippines,unaccounted for,72
+POL,ECS,Poland,compost,16
+POL,ECS,Poland,incineration,13
+POL,ECS,Poland,landfill,44
+POL,ECS,Poland,recycling,26
+PRI,LCN,Puerto Rico,landfill,67
+PRI,LCN,Puerto Rico,recycling,14
+PRI,LCN,Puerto Rico,unaccounted for,20
+PRT,ECS,Portugal,compost,14
+PRT,ECS,Portugal,incineration,21
+PRT,ECS,Portugal,landfill,49
+PRT,ECS,Portugal,recycling,16
+PRY,LCN,Paraguay,landfill,76
+PRY,LCN,Paraguay,open dump,23
+QAT,MEA,Qatar,incineration,4
+QAT,MEA,Qatar,landfill,93
+QAT,MEA,Qatar,recycling,3
+ROU,ECS,Romania,compost,7
+ROU,ECS,Romania,incineration,2
+ROU,ECS,Romania,landfill,72
+ROU,ECS,Romania,recycling,6
+ROU,ECS,Romania,unaccounted for,13
+SAU,MEA,Saudi Arabia,landfill,85
+SAU,MEA,Saudi Arabia,recycling,15
+SDN,SSF,Sudan,landfill,82
+SDN,SSF,Sudan,other,18
+SEN,SSF,Senegal,landfill,5
+SEN,SSF,Senegal,open dump,44
+SEN,SSF,Senegal,other,5
+SEN,SSF,Senegal,unaccounted for,46
+SGP,EAS,Singapore,incineration,37
+SGP,EAS,Singapore,landfill,2
+SGP,EAS,Singapore,recycling,61
+SLB,EAS,Solomon Islands,unaccounted for,19
+SLB,EAS,Solomon Islands,marine waterways,81
+SLV,LCN,El Salvador,open dump,14
+SLV,LCN,El Salvador,other,8
+SLV,LCN,El Salvador,landfill,78
+SMR,ECS,San Marino,recycling,45
+SMR,ECS,San Marino,unaccounted for,55
+SRB,ECS,Serbia,landfill,74
+SRB,ECS,Serbia,recycling,1
+SRB,ECS,Serbia,unaccounted for,25
+SUR,LCN,Suriname,open dump,63
+SUR,LCN,Suriname,unaccounted for,37
+SVK,ECS,Slovak Republic,compost,7
+SVK,ECS,Slovak Republic,incineration,11
+SVK,ECS,Slovak Republic,landfill,69
+SVK,ECS,Slovak Republic,recycling,8
+SVK,ECS,Slovak Republic,unaccounted for,6
+SVN,ECS,Slovenia,compost,8
+SVN,ECS,Slovenia,incineration,17
+SVN,ECS,Slovenia,landfill,23
+SVN,ECS,Slovenia,recycling,46
+SVN,ECS,Slovenia,unaccounted for,6
+SWE,ECS,Sweden,compost,16
+SWE,ECS,Sweden,incineration,51
+SWE,ECS,Sweden,landfill,1
+SWE,ECS,Sweden,recycling,32
+TGO,SSF,Togo,compost,2
+TGO,SSF,Togo,open dump,96
+TGO,SSF,Togo,recycling,2
+THA,EAS,Thailand,landfill,27
+THA,EAS,Thailand,open dump,54
+THA,EAS,Thailand,recycling,19
+TJK,ECS,Tajikistan,open dump,100
+TKM,ECS,Turkmenistan,landfill,100
+TON,EAS,Tonga,landfill,40
+TON,EAS,Tonga,unaccounted for,60
+TTO,LCN,Trinidad and Tobago,compost,1
+TTO,LCN,Trinidad and Tobago,landfill,12
+TTO,LCN,Trinidad and Tobago,open dump,84
+TTO,LCN,Trinidad and Tobago,unaccounted for,3
+TUN,MEA,Tunisia,compost,5
+TUN,MEA,Tunisia,landfill,70
+TUN,MEA,Tunisia,open dump,21
+TUN,MEA,Tunisia,recycling,4
+TUR,ECS,Turkey,compost,1
+TUR,ECS,Turkey,open dump,44
+TUR,ECS,Turkey,landfill,54
+TUR,ECS,Turkey,unaccounted for,1
+UGA,SSF,Uganda,open dump,87
+UGA,SSF,Uganda,recycling,6
+UGA,SSF,Uganda,landfill,7
+UKR,ECS,Ukraine,incineration,3
+UKR,ECS,Ukraine,landfill,94
+UKR,ECS,Ukraine,recycling,3
+URY,LCN,Uruguay,landfill,73
+URY,LCN,Uruguay,open dump,18
+URY,LCN,Uruguay,recycling,8
+URY,LCN,Uruguay,unaccounted for,2
+USA,NAC,United States,incineration,13
+USA,NAC,United States,landfill,53
+USA,NAC,United States,recycling,35
+UZB,ECS,Uzbekistan,open dump,60
+UZB,ECS,Uzbekistan,unaccounted for,40
+VGB,LCN,British Virgin Islands,incineration,80
+VGB,LCN,British Virgin Islands,unaccounted for,20
+VNM,EAS,Vietnam,compost,15
+VNM,EAS,Vietnam,recycling,23
+VNM,EAS,Vietnam,unaccounted for,62
+VUT,EAS,Vanuatu,open dump,11
+VUT,EAS,Vanuatu,recycling,37
+VUT,EAS,Vanuatu,unaccounted for,52
+WSM,EAS,Samoa,landfill,31
+WSM,EAS,Samoa,recycling,36
+WSM,EAS,Samoa,unaccounted for,33
+XKX,ECS,Kosovo,landfill,66
+XKX,ECS,Kosovo,open dump,34
+YEM,MEA,"Yemen, Rep.",landfill,12
+YEM,MEA,"Yemen, Rep.",open dump,25
+YEM,MEA,"Yemen, Rep.",recycling,8
+YEM,MEA,"Yemen, Rep.",unaccounted for,47
+YEM,MEA,"Yemen, Rep.",marine waterways,8
+ZAF,SSF,South Africa,landfill,72
+ZAF,SSF,South Africa,recycling,28
+ZWE,SSF,Zimbabwe,recycling,16
+ZWE,SSF,Zimbabwe,unaccounted for,84
